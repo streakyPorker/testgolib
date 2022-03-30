@@ -1,5 +1,6 @@
 package util
 
 type Lib struct {
-	Id int
+	Id  int
+	Str string
 }
